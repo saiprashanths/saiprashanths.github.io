@@ -9,7 +9,7 @@
 title: Sai Soundararaj
 email: saip@outlook.com
 description: >
-  Human, Entrepreneur, Deep Learning Enthusiast
+  Entrepreneur, Data and Deep Learning Enthusiast
 logo: "/assets/images/photo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://saiprashanths.github.io/" # the base hostname & protocol for your site
@@ -17,7 +17,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Sai Soundararaj'
 bio: >
-  Human, Entrepreneur, Deep Learning Enthusiast
+  Entrepreneur, Data and Deep Learning Enthusiast
 author_image: "/assets/images/photo.jpg"
 twitter_username: 
 github_username:  saiprashanths
